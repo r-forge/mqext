@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+#register the dll
+useDynLib(mqext, .registration=TRUE)
+#

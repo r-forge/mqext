@@ -1,0 +1,11 @@
+Package: mqext
+Type: Package
+Title: M-quantile extension of the mixed linear model 
+Version: 1.0
+Date: 2011-11-26
+Author: Tobias Schoch
+Maintainer: Tobias Schoch <tobias.schoch@fhnw.ch>
+Description: M-quantile extention of the mixed linear model
+Depends: rsae
+License: GPL (>=2)
+LazyLoad: yes
